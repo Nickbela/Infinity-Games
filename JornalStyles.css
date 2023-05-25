@@ -1,0 +1,135 @@
+body{
+    margin: 0px;
+    background-color:white;
+}
+
+header{
+    background-color: black; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 130px;
+    width: 2000px;
+    position: fixed;
+    margin-top: 0px;
+    z-index: 9;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+}
+
+a:visited{
+    color: rgb(83, 75, 201);
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 8px;
+    margin: 0px;
+    margin-top: 5px;
+
+}
+
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+input{
+    float: right;;
+    border-radius: 50px;
+    margin-right: 150px;
+    margin-left: 1000px;
+    margin-top: 43px;
+    width: 90px;
+    height: 30px;
+    position: fixed;
+    transition: all 2s ease;
+}
+
+input:focus{
+    background-color: rgb(163, 163, 163);
+    width: 200px;
+    height: 30px;
+}
+
+#clima{             /*iframe previsão do tempo*/
+    float: right;
+    clear: both;
+    padding-top: px;
+
+}
+
+.antesnoti2{
+    padding-top: 700px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.antesnoti{
+    padding-top: 200px;
+    text-align: center;
+    font-size: 50px;
+}
+
+h3 {
+    font-family: 'Oswald', sans-serif;
+    text-shadow: 2px 2px white;
+}
+
+.foot1{
+    font-size: 20px;
+}
+_______________________________
+
+.img_div_left{
+    float: left;
+    width: 100px;
+    height: 150px;
+    padding: 15px;
+  }
+  
+  .img_div_right{
+    float: right;
+    width: 100px;
+    height: 150px;
+    padding: 15px;
+  }
+  
+  .p_left{
+    float: right;
+    font-size: 200%;
+    color: white;
+  }
+  
+  .p_right{
+    float: left;
+
+    font-size: 200%;
+    color: white;
+  }
+  
+  .home:hover{
+    box-shadow: 4px 4px 5px 5px rgb(168, 166, 166);
+    background-color: rgba(187, 184, 184, 0.055);
+  }
+
+
+
+
+
+
+
+
